@@ -1,20 +1,15 @@
-# Point-Query Quadtree for Crowd Counting, Localization, and More (ICCV 2023)
+# Shifted Autoencoders for Point Annotation Restoration in Object Counting (ECCV 2024)
 
 This repository includes the official implementation of the paper: 
 
-[**Point-Query Quadtree for Crowd Counting, Localization, and More**](https://arxiv.org/abs/2308.13814)
+[**Shifted Autoencoders for Point Annotation Restoration in Object Counting**]
 
-International Conference on Computer Vision (ICCV), 2023
+European Conference on Computer Vision (ECCV), 2024
+<sup>1</sup>Wuhan University, China  
 
-[Chengxin Liu](https://cxliu0.github.io/)<sup>1</sup>, [Hao Lu](https://sites.google.com/site/poppinace/)<sup>1</sup>, [Zhiguo Cao](http://english.aia.hust.edu.cn/info/1085/1528.htm)<sup>1</sup>, [Tongliang Liu](https://tongliang-liu.github.io/)<sup>2</sup>
+[[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03594.pdf) | [[Supplementary]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03594-supp.pdf)
 
-<sup>1</sup>Huazhong University of Science and Technology, China  
-
-<sup>2</sup>The University of Sydney, Australia
-
-[[Paper]](https://arxiv.org/abs/2308.13814) | [[Supplementary]](https://drive.google.com/file/d/1WxdtOaEEccYrXuNQTn1k29lFDAetBm63/view?usp=sharing)
-
-![PET](teaser.JPG)
+![SAE]()
 
 ## Highlights
 
